@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/achyut_narayan3" target="blank"><img src="https://img.shields.io/twitter/follow/achyut_narayan3?logo=twitter&style=for-the-badge" alt="achyut_narayan3" /></a> </p>
 
-- 🔭 I’m currently working on [Chat BOT]((https://github.com/achyutNARAYAN/Chatbot))
+- 🔭 I’m currently working on Chat BOT https://github.com/achyutNARAYAN/Chatbot
 
 - 🌱 I’m currently learning **DSA , AWS , Back-end**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://achyut-protfolio-7s78l16.gamma.site/](https://achyut-protfolio-7s78l16.gamma.site/)
 
-- 📝 I regularly write articles on [my Journey of Learning different stuffs](my Journey of Learning different stuffs)
+- 📝 I regularly write articles on my Journey of Learning different stuffs
 
 - 💬 Ask me about **my project**
 
